@@ -7,8 +7,10 @@ $ python3 -m venv /tmp/food
 $ source /tmp/food/bin/activate
 ```
 
-### install dependencies
+### clone the repo, install dependencies
 ```
+$ git clone <url>
+$ cd django-demo
 $ pip install -r requirements.txt
 ```
 
