@@ -1,0 +1,34 @@
+[
+  {
+    "model": "fruits.fruit",
+    "pk": 1,
+    "fields": {
+      "name": "Mango",
+      "color": "Yellow"
+    }
+  },
+  {
+    "model": "fruits.fruit",
+    "pk": 2,
+    "fields": {
+      "name": "Apple",
+      "color": "Red"
+    }
+  },
+  {
+    "model": "fruits.fruit",
+    "pk": 3,
+    "fields": {
+      "name": "Grapes",
+      "color": "Green"
+    }
+  },
+  {
+    "model": "fruits.fruit",
+    "pk": 4,
+    "fields": {
+      "name": "Banana",
+      "color": "Yellow"
+    }
+  }
+]

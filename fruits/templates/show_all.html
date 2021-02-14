@@ -1,0 +1,21 @@
+<html>
+    <body>
+        <table border=1>
+            <thead>
+                <tr>
+                    <th>name</th>
+                    <th>color</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for fruit in all_fruits %}
+                <tr>
+                    <td>{{fruit.name}}</td>
+                    <td>{{fruit.color}}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>
+
