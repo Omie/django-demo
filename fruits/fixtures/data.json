@@ -4,7 +4,8 @@
     "pk": 1,
     "fields": {
       "name": "Mango",
-      "color": "Yellow"
+      "color": "Yellow",
+      "category": 3
     }
   },
   {
@@ -12,7 +13,8 @@
     "pk": 2,
     "fields": {
       "name": "Apple",
-      "color": "Red"
+      "color": "Red",
+      "category": 1
     }
   },
   {
@@ -28,7 +30,8 @@
     "pk": 4,
     "fields": {
       "name": "Banana",
-      "color": "Yellow"
+      "color": "Yellow",
+      "category": 3
     }
   }
 ]

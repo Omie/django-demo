@@ -1,0 +1,37 @@
+[
+  {
+    "model": "fruits.fruitcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Apples and pears"
+    }
+  },
+  {
+    "model": "fruits.fruitcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Citrus"
+    }
+  },
+  {
+    "model": "fruits.fruitcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Tropical and exotic"
+    }
+  },
+  {
+    "model": "fruits.fruitcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Berries"
+    }
+  },
+  {
+    "model": "fruits.fruitcategory",
+    "pk": 5,
+    "fields": {
+      "name": "Melons"
+    }
+  }
+]
